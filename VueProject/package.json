@@ -1,5 +1,5 @@
 {
-  "name": "vue",
+  "name": "vue2.0",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "zdrjson <zdrjson@gmail.com>",
@@ -13,7 +13,8 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
   },
   "dependencies": {
-    "vue": "^2.1.0"
+    "vue": "^2.1.0",
+    "vue-router": "^2.1.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
