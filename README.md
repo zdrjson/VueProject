@@ -25,6 +25,6 @@ npm test
 ```
 
 ```
-if you're in china, you can use cnpm which comes from taobao to replace npm, good luck.
+if you're in China, you can use cnpm which comes from taobao to replace npm, good luck.
 ```
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
